@@ -1,0 +1,38 @@
+C:\Users\nion1\source\repos\Music_Player_Final\bin\Debug\Music_Player_Final.exe.config
+C:\Users\nion1\source\repos\Music_Player_Final\bin\Debug\Music_Player_Final.exe
+C:\Users\nion1\source\repos\Music_Player_Final\bin\Debug\Music_Player_Final.pdb
+C:\Users\nion1\source\repos\Music_Player_Final\bin\Debug\Interop.WMPLib.dll
+C:\Users\nion1\source\repos\Music_Player_Final\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nion1\source\repos\Music_Player_Final\obj\Debug\Music_Player_Final.csprojAssemblyReference.cache
+C:\Users\nion1\source\repos\Music_Player_Final\obj\Debug\Interop.WMPLib.dll
+C:\Users\nion1\source\repos\Music_Player_Final\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nion1\source\repos\Music_Player_Final\obj\Debug\Music_Player_Final.csproj.ResolveComReference.cache
+C:\Users\nion1\source\repos\Music_Player_Final\obj\Debug\Music_Player_Final.Form1.resources
+C:\Users\nion1\source\repos\Music_Player_Final\obj\Debug\Music_Player_Final.Properties.Resources.resources
+C:\Users\nion1\source\repos\Music_Player_Final\obj\Debug\Music_Player_Final.csproj.GenerateResource.cache
+C:\Users\nion1\source\repos\Music_Player_Final\obj\Debug\Music_Player_Final.csproj.CoreCompileInputs.cache
+C:\Users\nion1\source\repos\Music_Player_Final\obj\Debug\Music_Player_Final.exe
+C:\Users\nion1\source\repos\Music_Player_Final\obj\Debug\Music_Player_Final.pdb
+C:\Users\nion1\source\repos\Music_Player_Final\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\nion1\source\repos\Music_Player_Final\bin\Debug\taglib-sharp.dll
+C:\Users\nion1\source\repos\Music_Player_Final\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\nion1\source\repos\Music_Player_Final\obj\Debug\Music_Player_Final.csproj.CopyComplete
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\bin\Debug\Music_Player_Final.exe.config
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\bin\Debug\Music_Player_Final.exe
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\bin\Debug\Music_Player_Final.pdb
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\bin\Debug\taglib-sharp.dll
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\bin\Debug\Interop.WMPLib.dll
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\bin\Debug\AxInterop.WMPLib.dll
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\obj\Debug\Music_Player_Final.csprojAssemblyReference.cache
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\obj\Debug\Interop.WMPLib.dll
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\obj\Debug\AxInterop.WMPLib.dll
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\obj\Debug\Music_Player_Final.csproj.ResolveComReference.cache
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\obj\Debug\Music_Player_Final.Form1.resources
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\obj\Debug\Music_Player_Final.Properties.Resources.resources
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\obj\Debug\Music_Player_Final.csproj.GenerateResource.cache
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\obj\Debug\Music_Player_Final.csproj.CoreCompileInputs.cache
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\obj\Debug\Music_Player_Final.csproj.CopyComplete
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\obj\Debug\Music_Player_Final.exe
+D:\Σχολή\Εργασίες\3ο εξάμηνο\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Τελικές Εργασίες\c#\Music_Player_Final\obj\Debug\Music_Player_Final.pdb
